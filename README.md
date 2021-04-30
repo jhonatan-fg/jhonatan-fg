@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Header image](./Assets/Github_Header.png)
+![](https://visitor-badge.glitch.me/badge?page_id=jhonatan-fg)
 
 ![Jhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatan-fg&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,issues&line_height=30&locale=es) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-fg&layout=compact&theme=radical&card_width=300&locale=es)
 
