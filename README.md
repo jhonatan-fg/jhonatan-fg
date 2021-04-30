@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatan-fg)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Jhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatan-fg&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,issues&line_height=30) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-fg&layout=compact&theme=radical&card_width=446)
+
+
 
 <!--
 **jhonatan-fg/jhonatan-fg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
