@@ -1,11 +1,10 @@
 ### Hi there 👋
 ![Header image](./Assets/Github_Header.png)
+
+![Jhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatan-fg&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,issues&line_height=30&locale=en&bg_color=852120&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-fg&layout=compact&card_width=300&locale=en&bg_color=852120&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=jhonatan-fg)
-
-![Jhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatan-fg&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,issues&line_height=30&locale=es&bg_color=852120&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-fg&layout=compact&card_width=300&locale=es&bg_color=852120&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)
-
-
 
 <!--
 **jhonatan-fg/jhonatan-fg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
