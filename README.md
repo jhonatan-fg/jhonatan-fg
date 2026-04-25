@@ -63,11 +63,11 @@ data engineer | ai systems explorer | signal observer
 ## 📊 stats.log
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonatan-fg&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,issues&line_height=28&locale=en&bg_color=0a0f1c&title_color=4cc9f0&text_color=cbd5e1&icon_color=7209b7&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonatan-fg&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,issues&line_height=28&locale=en&bg_color=0a0f1c&title_color=4cc9f0&text_color=cbd5e1&icon_color=7209b7&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-fg&layout=compact&bg_color=0a0f1c&title_color=4cc9f0&text_color=cbd5e1&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-fg&hide_title=true&layout=compact&bg_color=0a0f1c&title_color=4cc9f0&text_color=cbd5e1&hide_border=true"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@ data engineer | ai systems explorer | signal observer
 ## 🌐 activity.stream
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonatan-fg&bg_color=0a0f1c&color=4cc9f0&line=7209b7&point=cbd5e1&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonatan-fg&hide_title=true&bg_color=0a0f1c&color=4cc9f0&line=7209b7&point=cbd5e1&area=true&hide_border=true"/>
 </p>
 
 ---
