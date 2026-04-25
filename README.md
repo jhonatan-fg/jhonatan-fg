@@ -4,7 +4,7 @@
   <img src="./Assets/Github_Header.png" />
 </p>
 
-<h1 align="center">jhonatan-fg</h1>
+<h1 align="center">voidsignal</h1>
 
 <p align="center">
   <i>"present day... present time"</i><br/>
@@ -18,7 +18,7 @@
 ```bash id="k1z9xa"
 > initializing connection...
 
-user: jhonatan-fg
+user: voidsignal
 status: online
 protocol: consciousness.sys
 
