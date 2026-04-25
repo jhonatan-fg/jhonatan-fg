@@ -105,22 +105,6 @@ code          := interface(reality, mind)
 
 ---
 
-## 📡 contact.link
-
-<p align="center">
-
-[![github](https://img.shields.io/badge/github-0d1117?style=for-the-badge\&logo=github\&logoColor=cbd5e1)](https://github.com/jhonatan-fg)
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=jhonatan-fg&color=4cc9f0" />
-</p>
-
----
-
 <p align="center">
   <sub>見ることは、存在すること。</sub><br/>
   <sub><i>seeing is existing.</i></sub>
